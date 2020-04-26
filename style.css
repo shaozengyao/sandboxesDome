@@ -1,0 +1,96 @@
+.App {
+  font-family: sans-serif;
+}
+.mydialog .MuiCardHeader-avatar {
+  align-items: flex-start;
+}
+.mydialog .cardAvatar {
+  width: 50px;
+  height: 50px;
+}
+.mydialog .signbtn {
+  background: #009688;
+  color: #fff;
+  margin-right: 20px;
+  border: 2px #009688 solid;
+  font-weight: bold;
+}
+.mydialog .rejectbtn {
+  color: #fe602e;
+  border: 2px #e09083 solid;
+  font-weight: bold;
+}
+.mydialog .expansTitFir {
+  color: #999;
+  font-size: 12px;
+}
+.mydialog .expansTitSec {
+  font-size: 12px;
+  padding-left: 10px;
+}
+.mydialog .typtxt {
+  font-size: 12px;
+}
+.mydialog .mycontrolLabel {
+  font-size: 12px;
+}
+.mydialog .MuiPaper-elevation1 {
+  box-shadow: none;
+}
+.mydialog .dialogFot {
+  display: flex;
+  padding: 0 24px;
+  justify-content: space-between;
+  align-items: center;
+}
+.mydialog .spalabel {
+  text-decoration: line-through;
+}
+.mydialog .ischeked {
+  color: #009688;
+}
+.mydialog .MuiCardHeader-root {
+  padding: 16px 0;
+}
+.mydialog .MuiCardContent-root {
+  padding: 16px 0;
+}
+.mydialog .MuiDivider-middle {
+  margin: 0;
+  height: 2px;
+}
+.mydialog .MuiExpansionPanelSummary-root {
+  padding: 0;
+}
+.mydialog .MuiExpansionPanelDetails-root {
+  margin: 8px 0;
+}
+.mydialog .MuiExpansionPanelDetails-root {
+  padding: 0;
+}
+.mydialog .spalabel .MuiSvgIcon-root {
+  color: #fe602e;
+}
+.mydialog .MuiCardActions-root {
+  padding: 0 0 20px 0;
+  border-bottom: 2px #ddd solid;
+}
+.mydialog .filesBtn {
+  background: #e2e2e2;
+  font-size: 12px;
+  color: #333;
+  box-shadow: none;
+  border-radius: none;
+  margin-right: 20px;
+}
+.mydialog .MuiButton-iconSizeMedium > *:first-child {
+  font-size: 16px;
+  color: #009688;
+}
+.mydialog .MuiTypography-body1 {
+  font-size: 12px;
+}
+.mydialog .MuiSvgIcon-root {
+  font-size: 16px;
+  padding-left: 2px;
+}
